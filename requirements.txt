@@ -1,0 +1,2 @@
+marshmallow==3.13.0
+pytest
